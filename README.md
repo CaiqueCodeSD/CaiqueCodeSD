@@ -3,9 +3,9 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 🤓 Repositório mais recente: [JogoDaForca] (https://github.com/Ca1queC0de/JogoDaForca/blob/main/JogoDaForca.java)
+- 🤓 Repositório concluído mais recente: [JogoDaForca] (https://github.com/Ca1queC0de/JogoDaForca/blob/main/JogoDaForca.java)
 <br>
-- 📑 No momento, estou trabalhando em um projeto pessoal com IA
+- 📑 No momento, estou tentando resolver um bug/falha no meu jogo da cobrinha. Confira o repositório [SnakeGame]
 </br>
 
 <h3 align="center">Estou estudando:</h3>
