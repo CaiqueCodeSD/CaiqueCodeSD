@@ -3,9 +3,9 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 📑 No momento, estou desenvolvendo um jogo clássico de cobrinha. Confira o repositório: [SnakeGame] - (https://github.com/CaiqueCodeSD/SnakeGame/tree/main/src/com.snakegame)
+- 📑 No momento, estou desenvolvendo um simples jogo da velha (Tic Tac Toe). Confira o repositório: [jogoDaVelha] - (https://github.com/CaiqueCodeSD/jogoDaVelha/blob/main/ticTacToe/TicTacToe.java)
 <br>
-- 🤓 Repositório concluído mais recente: [JogoDaForca] - (https://github.com/Ca1queC0de/JogoDaForca/blob/main/JogoDaForca.java)
+- 🤓 Repositório concluído mais recente: [SnakeGame] - (https://github.com/CaiqueCodeSD/SnakeGame)
 </br>
 
 <h3 align="center">Estou estudando:</h3>
