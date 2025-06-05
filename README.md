@@ -3,7 +3,7 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 📑 No momento, estou voltando a esstudar Java e pretendo aprender algum novo framework.
+- 📑 No momento, estou voltando a estudar Java e pretendo aprender algum novo framework.
 <br>
 
 <h3 align="center">Estou estudando:</h3>
