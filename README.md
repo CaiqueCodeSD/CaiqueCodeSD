@@ -3,10 +3,8 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 📑 No momento, estou desenvolvendo um simples jogo da velha (Tic Tac Toe). Confira o repositório: [jogoDaVelha] - (https://github.com/CaiqueCodeSD/jogoDaVelha/blob/main/ticTacToe/TicTacToe.java)
+- 📑 No momento, estou voltando a esstudar Java e pretendo aprender algum novo framework.
 <br>
-- 🤓 Repositório concluído mais recente: [SnakeGame] - (https://github.com/CaiqueCodeSD/SnakeGame)
-</br>
 
 <h3 align="center">Estou estudando:</h3>
 <p align="center">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> </a> 
