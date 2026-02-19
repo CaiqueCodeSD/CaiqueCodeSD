@@ -1,15 +1,63 @@
-<h2 align="center">Olá, Mundo! Eu sou Caíque.</h2>
+<h2 align="center">Olá, Mundo! Eu sou Caíque 👨‍💻</h2>
 
-Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
+<p align="center">
+Profissional em transição para QA, construindo base sólida em programação, estrutura de dados e análise de sistemas.
+</p>
 
-<br>
-- 📑 No momento, estou voltando a estudar Java e pretendo aprender algum novo framework.
-<br>
+---
 
-<h3 align="center">Estou estudando:</h3>
-<p align="center">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> </a> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> </p>
+### 🚀 Sobre mim
 
-<h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla ⚡</h3>
+Atualmente aprofundando meus estudos em **Python**, com foco na construção de fundamentos sólidos em lógica, estrutura de dados e complexidade de algoritmos.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CaiqueCodeSD&color=blue" alt="Profile views" /></p>
+Minha experiência prévia na área de redes me proporciona uma visão técnica ampla sobre infraestrutura, comunicação e comportamento de sistemas.
+
+Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensamento analítico, disciplina e domínio técnico para atuar com excelência.
+
+---
+
+### 📚 Atualmente estudando
+
+<p align="center">
+
+<img src="https://nodejs.org/static/logos/nodejsHex.svg" width="40"/>
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40"/>
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</a>
+</p>
+
+---
+
+### 🎯 Objetivos Técnicos
+
+- Consolidar fundamentos de programação
+- Aprofundar em Estrutura de Dados
+- Desenvolver raciocínio analítico para testes
+- Avançar para automação de testes
+- Explorar ferramentas e boas práticas de QA
+
+---
+
+### 🧠 Mentalidade
+
+Disciplina, consistência e evolução técnica acima de resultados imediatos.
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CaiqueCodeSD&color=blue" alt="Profile views" />
+</p>
