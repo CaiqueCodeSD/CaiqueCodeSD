@@ -16,9 +16,11 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Tecnologias
 
 <p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40"/>
 
 <img src="https://nodejs.org/static/logos/nodejsHex.svg" width="40"/>
   
