@@ -44,22 +44,6 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 
 ---
 
-### 🎯 Objetivos Técnicos
-
-- Consolidar fundamentos de programação
-- Aprofundar em Estrutura de Dados
-- Desenvolver raciocínio analítico para testes
-- Avançar para automação de testes
-- Explorar ferramentas e boas práticas de QA
-
----
-
-### 🧠 Mentalidade
-
-Disciplina, consistência e evolução técnica acima de resultados imediatos.
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CaiqueCodeSD&color=blue" alt="Profile views" />
 </p>
