@@ -8,8 +8,6 @@ Profissional em transição para QA, construindo base sólida em programação, 
 
 ### 🚀 Sobre mim
 
-Atualmente aprofundando meus estudos em **Python**, com foco na construção de fundamentos sólidos em lógica, estrutura de dados e complexidade de algoritmos.
-
 Minha experiência prévia na área de redes me proporciona uma visão técnica ampla sobre infraestrutura, comunicação e comportamento de sistemas.
 
 Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensamento analítico, disciplina e domínio técnico para atuar com excelência.
