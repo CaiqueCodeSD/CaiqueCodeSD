@@ -26,17 +26,11 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="40"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-</a>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 </a>
 </p>
 
