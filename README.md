@@ -33,9 +33,3 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 
 </a>
 </p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CaiqueCodeSD&color=blue" alt="Profile views" />
-</p>
