@@ -18,6 +18,8 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 
 <p align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40"/>
 
 <img src="https://nodejs.org/static/logos/nodejsHex.svg" width="40"/>
@@ -27,6 +29,9 @@ Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensam
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
+
+
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 </a>
