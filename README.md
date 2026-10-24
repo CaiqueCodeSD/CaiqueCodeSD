@@ -1,12 +1,7 @@
-<h2 align="center">Olá, Mundo! Eu sou Caíque 👨‍💻</h2>
+<h1 align="center">Olá, Mundo! Eu sou Caíque 👨‍💻</h2>
+
 
 <p align="center">
-Profissional em transição para QA, construindo base sólida em programação, estrutura de dados e análise de sistemas.
-</p>
-
----
-
-### 🚀 Sobre mim
 
 Minha experiência prévia na área de redes me proporciona uma visão técnica ampla sobre infraestrutura, comunicação e comportamento de sistemas.
 
