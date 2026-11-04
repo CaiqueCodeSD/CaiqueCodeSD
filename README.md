@@ -1,35 +1,41 @@
-<h1 align="center">Olá, Mundo! Eu sou Caíque 👨‍💻</h2>
+```bash
+caíque@github:~$ whoami
+```
 
+# Caíque | Android
 
-<p align="center">
+Estudante autodidata com foco em desenvolvimento Android nativo utilizando Kotlin.
 
-Minha experiência prévia na área de redes me proporciona uma visão técnica ampla sobre infraestrutura, comunicação e comportamento de sistemas.
+Gosto de construir aplicações, estudar arquitetura de software e explorar o ecossistema Linux.
 
-Meu objetivo é evoluir para a área de **Qualidade de Software**, unindo pensamento analítico, disciplina e domínio técnico para atuar com excelência.
+```bash
+caíque@github:~$ ls ./toolkit
+```
 
----
+**Tecnologias e ferramentas**
 
-### 📚 Tecnologias
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="center">
+```bash
+caíque@github:~$ ls ./projects
+```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40"/>
+**Projetos em destaque**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40"/>
+- [Planejador Financeiro](https://github.com/CaiqueCodeSD/app-planejador-financeiro) — Aplicação Android para organização de finanças pessoais.
+- [Monitoramento de Mortalidade Bovina](https://github.com/CaiqueCodeSD/app-monitoramento-mortalidade-bovina) — Aplicação Android para registro e acompanhamento de ocorrências no campo.
 
-<img src="https://nodejs.org/static/logos/nodejsHex.svg" width="40"/>
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40"/>
+```bash
+caíque@github:~$ cat contact.txt
+```
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="40"/>
+- [GitHub](https://github.com/CaiqueCodeSD)
+- [LinkedIn](https://www.linkedin.com/in/ca%C3%ADque-monteiro7/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</a>
-
-</a>
-</p>
+```bash
+caíque@github:~$ echo "Um commit de cada vez."
+```
